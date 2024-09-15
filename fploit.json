@@ -1,7 +1,6 @@
 {
-   "image": "https://raw.githubusercontent.com/fploit/nft_test/main/fploit.jpg",
+   "image": "https://raw.githubusercontent.com/fploit/nft_test/main/fploit.png",
    "name": "fploit",
    "description": "13 image for fploit",
-   "social_links": ["t.me/fploit"],
-   "marketplace": "getgems.io"
+   "social_links": []
 }
